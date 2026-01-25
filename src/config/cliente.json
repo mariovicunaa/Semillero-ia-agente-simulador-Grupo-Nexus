@@ -1,8 +1,0 @@
-{
-  "tipo_cliente": "calmado",
-  "nivel_paciencia": 5,
-  "objetivo_conversacion": "consulta de servicio",
-  "longitud_mensaje": "medio",
-  "tono": "amable",
-  "max_interacciones": 5
-}
