@@ -1,2 +1,8 @@
 # Proyecto Agente Simulador de Clientes
-# No requiere librerías externas
+#Librerias a instalar
+streamlit
+langchain-groq
+langchain-google-genai
+langchain-core
+
+
